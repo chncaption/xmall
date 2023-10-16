@@ -42,7 +42,7 @@
         <elasticsearch.version>6.2.3</elasticsearch.version>
         <log4j.version>2.9.1</log4j.version>
         <shiro.version>1.4.0</shiro.version>
-        <json.version>20171018</json.version>
+        <json.version>20231013</json.version>
         <mail.version>1.5.0-b01</mail.version>
         <hutool.version>4.0.5</hutool.version>
     </properties>
